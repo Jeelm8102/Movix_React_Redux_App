@@ -31,6 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+
+.env file
+REACT_APP_ACCESS_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3NjgzODE1OWUwNjdmMmY0YWY2Y2Q0MDQzMjM1Yzc5OSIsIm5iZiI6MTcxOTMyNDA2NC42OTA4NTYsInN1YiI6IjY2NzNjNWE4ZWUxNWJkNTdiYTU0ODYyOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ApTKev3sg2dQBN288FNdwklNGC7LSum-yIoZ3CEyRnc'
+
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
