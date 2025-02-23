@@ -2,11 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# add .env file
-
-add this variable in that file,
-REACT_APP_ACCESS_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3NjgzODE1OWUwNjdmMmY0YWY2Y2Q0MDQzMjM1Yzc5OSIsIm5iZiI6MTcxOTMyNDA2NC42OTA4NTYsInN1YiI6IjY2NzNjNWE4ZWUxNWJkNTdiYTU0ODYyOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ApTKev3sg2dQBN288FNdwklNGC7LSum-yIoZ3CEyRnc'
-
 ## Available Scripts
 
 In the project directory, you can run:
